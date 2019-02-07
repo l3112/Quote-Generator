@@ -15,7 +15,6 @@ var quotes =[
 "I really thought he was going to say `I\'d open all my windows and doors and hope he comes and kills me` because I\'m so used to this millennial depression humor that I was REALLY taken aback by him saying he\'s ready to take him down, lol. ",
 "Every tech company I\'ve worked for and most others in my city either have gyms on the premises, offer gym memberships as an employee benefit or have workout classes at least once a week in the office during work hours. Sitting at a computer and coding all day is horrible for your health. Smart companies realize that healthy employees are better employees. This is obviously not a smart company.",
 "That\'s one of my top reasons for flying at night. The stars are so beautiful from your window and then, you get to see the sunrise.",
-" See, the company can only make money off of the work we do, so they’re never gonna pay us what we\’re worth; you don\’t get paid for eight hours’ work, you get paid for working eight hours. That\’s how they make bank. So the relationship between us and management is always gonna be adversarial.",
 "imagine how evil and demented you have to be for messages about equality and diversity to make you angry",
 "The working class and the employing class have nothing in common.",
 "For me it\'s the part where Doom has Richards in a chokehold and is lifting him up. That\'s the least effective way possible to fight a man with stretching powers, and it was the climax of the fight. Absolutely amazing.",
